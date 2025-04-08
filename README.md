@@ -99,7 +99,7 @@ code .
 ---
 ## Contributing
 
-I'm open to contributions from developers of all levels! Whether it's fixing bugs, suggesting new features, or improving documentation, feel free to open an issue or submit a pull request. Here’s how you can contribute:
+We are open to contributions from developers of all levels! Whether it's fixing bugs, suggesting new features, or improving documentation, feel free to open an issue or submit a pull request. Here’s how you can contribute:
 
 1. Fork the repository.
 2. Clone your fork to your local machine:
