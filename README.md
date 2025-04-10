@@ -73,11 +73,11 @@ The goal of the 50 Projects in 50 Days - JavaScript series is to provide a hands
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/50-projects-50-days-javascript.git
+git clone https://github.com/Guy-Ghis/50-projects-50-days-Javascript.git
 ```
 2. Navigate to the project folder:
 ```bash
-cd 50-projects-50-days-javascript
+cd 50-projects-50-days-Javascript
 ```
 3. Open the project in your code editor:
 ```bash
@@ -99,12 +99,12 @@ code .
 ---
 ## Contributing
 
-I'm open to contributions from developers of all levels! Whether it's fixing bugs, suggesting new features, or improving documentation, feel free to open an issue or submit a pull request. Here’s how you can contribute:
+We are open to contributions from developers of all levels! Whether it's fixing bugs, suggesting new features, or improving documentation, feel free to open an issue or submit a pull request. Here’s how you can contribute:
 
 1. Fork the repository.
 2. Clone your fork to your local machine:
 ```bash
-git clone https://github.com/yourusername/50-projects-50-days-javascript.git
+git clone https://github.com/Guy-Ghis/50-projects-50-days-Javascript.git
 ```
 3. Create a new branch for your feature or fix:
 ```bash
