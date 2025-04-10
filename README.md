@@ -1,5 +1,7 @@
 # 50-projects-50-days-Javascript
 
+---
+## Overview
 Welcome to the 50 Projects in 50 Days - JavaScript repository! This collection of projects is designed to help developers of all skill levels hone their JavaScript skills by building real-world applications and solving interesting challenges. Whether you're a beginner looking to master the basics or an intermediate developer aiming to refine your problem-solving abilities, this repository has something for you.
 
 ---
