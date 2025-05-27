@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: steelblue;
+  background: linear-gradient(45deg, #687780, #fff);
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
@@ -25,7 +25,7 @@ body {
 
 .container h1 {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
 }
 
 .container a {
@@ -42,7 +42,7 @@ body {
   font-family: inherit;
   font-size: 16px;
   border: 0;
-  border-radius: 5px;
+  border-radius: 25px;
 }
 
 .btn:focus {
@@ -54,6 +54,7 @@ body {
 }
 
 .text {
+  text-align: center;
   margin-top: 30px;
 }
 
